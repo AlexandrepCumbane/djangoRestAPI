@@ -1,0 +1,27 @@
+*.pyc
+.venv
+venv
+env
+htdocs
+lib
+themes.css
+*.appcache
+icon-180.png
+icon-192.png
+icon-512.png
+.wq-pgb
+conf/casemgmtproject.sqlite3
+conf/*.sqlite3
+app/.eslintcache
+db/~$lv_form.xlsx
+app_template/.eslintcache
+.env*
+case_mgmnt.code-workspace
+
+
+# Ignore DevSpace cache and log folder
+.devspace/
+helm/values.yaml
+.vscode/targets.log
+.vscode/dryrun.log
+.vscode/configurationCache.log
